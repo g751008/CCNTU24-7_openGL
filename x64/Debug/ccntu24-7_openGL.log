@@ -1,0 +1,2 @@
+﻿  firstGL.cpp
+LINK : fatal error LNK1104: 無法開啟檔案 'glut32.lib'
